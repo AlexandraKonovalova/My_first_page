@@ -4,6 +4,12 @@ body {
 li {
 	font-family: Monotype Corsiva;
 }
+a:hover {
+	color: #191970;
+}
+li:hover {
+	background-color: #B0C4DE;
+}
 h1 {
 	font-family: Arial Black;
 }
